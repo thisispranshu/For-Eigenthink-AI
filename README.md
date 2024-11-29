@@ -9,6 +9,8 @@ And as of LLM And API Key I have use Google Gemini's API which has 60 free Queri
 If any Issue in API Key you are facing then you can Customize it easily and also include Error Handling however you want....
 
 Name: Pranshu Joshi
+
 Phone Number: 7862916553
+
 Email: pranshujoshi0007@gmail.com
 
